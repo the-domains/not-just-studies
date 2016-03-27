@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Not Just Studies]]></title>
         <description><![CDATA[Not Just Studies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/not-just-studies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 09:28:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 09:29:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/not-just-studies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab071b3-5560-4ff7-8d1e-342a64ee2063.jpg">]]></description>
-            <link>undefinedin-our-society-children-are-usually-categorized-as-good-in/index.html</link>
+            <link>https://thegrid.ai/not-just-studies/in-our-society-children-are-usually-categorized-as-good-in/index.html</link>
             <guid isPermaLink="false">9e695781-e03e-4b8f-913d-062bae5197d2</guid>
             <pubDate>Sun, 27 Mar 2016 09:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3654459-a704-402c-b59c-1d5e9e2a9a2b.jpg">]]></description>
+            <link>https://thegrid.ai/not-just-studies/to-standardize-training-in-physical-education-performing-ar/index.html</link>
+            <guid isPermaLink="false">cf682622-ad5a-4108-a2f0-4d87771128e0</guid>
+            <pubDate>Sun, 27 Mar 2016 09:29:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
